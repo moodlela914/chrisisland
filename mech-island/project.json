@@ -1,0 +1,51 @@
+{
+  "name": "機械傳動魔法島：八年級生科動力越野車",
+  "author": "生活科技教學團隊",
+  "slug": "mech-island",
+  "courseCount": 5,
+  "courses": [
+    {
+      "id": "island-01",
+      "name": "齒輪扭力島",
+      "source": "機械傳動機構_八年級生科.pptx"
+    },
+    {
+      "id": "island-02",
+      "name": "連桿軌跡島",
+      "source": "機械傳動機構_八年級生科.pptx"
+    },
+    {
+      "id": "island-03",
+      "name": "凸輪節奏島",
+      "source": "機械傳動機構_八年級生科.pptx"
+    },
+    {
+      "id": "island-04",
+      "name": "傳動神劍島",
+      "source": "機械傳動機構_八年級生科.pptx"
+    },
+    {
+      "id": "island-05",
+      "name": "越野造車島",
+      "source": "機械傳動機構_八年級生科.pptx"
+    }
+  ],
+  "appearance": {
+    "theme": "christmas",
+    "label": "溫馨耶誕節",
+    "colors": {}
+  },
+  "residentCount": 14,
+  "certificate": {
+    "allRead": true,
+    "minimumScore": 75,
+    "worksheetsRequired": false
+  },
+  "publishMaterials": false,
+  "deployment": {
+    "platform": null,
+    "authorized": false,
+    "policy": "先本機確認；僅於使用者主動提出本次發布後部署；歷史授權不沿用"
+  },
+  "contentStatus": "正式教材轉製完成：八年級生科機械傳動與動力越野車專案（耶誕風格）"
+}
